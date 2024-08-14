@@ -7,5 +7,7 @@ The project is available in SortingRecords Folder
 Project 2-
 In this project, we do cleansing and preparing data. The data file has data without headers and inconsistent formatting. The workbook has multiple worksheets. We will provide formatting and data cleansing throughout multiple worksheets without having to navigate to the worksheets just by running a procedure. 
 
+Project 3- 
+It automates running formulas throughout the worksheets.
 
 
