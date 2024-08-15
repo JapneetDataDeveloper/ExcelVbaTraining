@@ -13,4 +13,7 @@ It automates running formulas throughout the worksheets.
 Project 4-
 It creates a quarterly records with help of vba which combines data from different region records and provides a consolidated list and does data cleaning on it.
 
+Project 5- 
+This project runs a procedure to open multiple txt files at once and load then in different worksheets.
+
 
