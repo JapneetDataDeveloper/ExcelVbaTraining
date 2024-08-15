@@ -16,4 +16,7 @@ It creates a quarterly records with help of vba which combines data from differe
 Project 5- 
 This project runs a procedure to open multiple txt files at once and load then in different worksheets.
 
+Project 6- 
+This project is focused on VBA user forms. There is a user interface with functions to open worksheet and add new worksheet.
+
 
