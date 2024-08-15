@@ -10,4 +10,7 @@ In this project, we do cleansing and preparing data. The data file has data with
 Project 3- 
 It automates running formulas throughout the worksheets.
 
+Project 4-
+It creates a quarterly records with help of vba which combines data from different region records and provides a consolidated list and does data cleaning on it.
+
 
